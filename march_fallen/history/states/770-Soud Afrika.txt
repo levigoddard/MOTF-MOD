@@ -1,0 +1,22 @@
+
+state={
+	id=770
+	name="STATE_770"
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+
+		}
+
+	}
+
+	provinces={
+		2120 2216 5155 7842 10929 12935 
+	}
+	manpower=2131
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

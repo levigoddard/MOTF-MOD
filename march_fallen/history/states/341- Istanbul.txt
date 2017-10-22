@@ -1,0 +1,35 @@
+state= {
+	id=341
+	name="STATE_341"
+	manpower = 1404509
+	resources={
+		chromium=15
+		steel=45
+		oil=25
+		tungsten=40
+		aluminium=55
+	}
+	
+	state_category = megalopolis
+
+	history= {
+		add_core_of = NOV
+		owner = NOV
+		victory_points = {
+			9833 20
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 4
+			dockyard = 4
+			arms_factory = 4
+			air_base = 2
+			9833 = {
+				naval_base = 8
+			}
+		}
+		add_core_of = NOV
+	}
+	provinces=
+	{ 849 922 3879 3893 6895 9833 11829 11842 9902 }
+}

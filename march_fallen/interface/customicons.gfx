@@ -1,0 +1,7 @@
+spriteTypes = { 
+##Icon For: revivebyzanton 
+ SpriteType = { 
+ name = 'GFX_revivebyzanton' 
+ texturefile = 'gfx/interface/goals/GFX_revivebyzanton.tga' 
+ } 
+ }

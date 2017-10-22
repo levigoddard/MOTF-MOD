@@ -1,0 +1,30 @@
+
+state={
+	id=743
+	name="STATE_743"
+
+	history={
+		victory_points = {
+			12029 21 
+		}
+		owner = NOV
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			12029 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = NOV
+
+	}
+
+	provinces={
+		806 1088 12029 
+	}
+	manpower=157549
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,19 @@
+state={
+	id=745
+	name="STATE_745"
+	provinces={ 992 1068 3996 4055 7117 10031 10127 }
+
+	history={
+		owner = NOV
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = EGY
+		add_core_of = NOV
+
+	}
+	manpower=52556
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

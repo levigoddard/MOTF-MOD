@@ -1,0 +1,27 @@
+state={
+	id=747
+	name="STATE_747"
+	provinces={
+		4073 12049 
+	}
+	manpower=21372
+	
+	state_category = enclave
+	history={
+		owner = NOV
+		buildings = {
+			infrastructure = 8
+			air_base = 2
+			4073 = {
+				naval_base = 5
+				coastal_bunker = 2
+			}
+			12049 = {
+				naval_base = 5
+				coastal_bunker = 2
+			}
+		}
+		add_core_of = NOV
+		add_claim_by = EGY
+	}
+}

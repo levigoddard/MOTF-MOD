@@ -1,0 +1,22 @@
+
+state={
+	id=766
+	name="STATE_766"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+
+		}
+
+	}
+
+	provinces={
+		4927 5013 5045 5070 7983 8065 8122 12794 
+	}
+	manpower=2131
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

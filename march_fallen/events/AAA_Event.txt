@@ -1,0 +1,60 @@
+add_namespace = teutonic
+
+
+# Poland Refuses to Cede Danzig (Danzig or War)
+country_event = {
+	id = teutonic.1
+	title = teuton.1.t
+	desc = teuton.1.d
+	picture = GFX_report_event_polish_tanks_02
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = TGO
+		NOT = { has_government = communism }
+		date > 1936.2.2
+	}
+	
+	mean_time_to_happen = {
+		days = 2
+	}
+
+	option = {
+		name = teuton.1.a
+		declare_war_on = {
+			target = BAV
+			type = take_state
+			generator = { 52 }
+		}
+	}
+}
+
+# Poland Refuses to Cede Danzig (Danzig or War)
+country_event = {
+	id = teutonic.2
+	title = teuton.2.t
+	desc = teuton.2.d
+	picture = GFX_report_event_polish_tanks_02
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = TGO
+		NOT = { has_government = communism }
+		date > 1936.5.5
+	}
+	
+	mean_time_to_happen = {
+		days = 2
+	}
+
+	option = {
+		name = teuton.2.a
+		declare_war_on = {
+			target = GER
+			type = take_state
+			generator = { 57 }
+		}
+	}
+}

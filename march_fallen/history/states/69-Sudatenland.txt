@@ -1,0 +1,60 @@
+
+state={
+	id=69
+	name="STATE_69"
+	resources={
+		steel=8.000
+	}
+
+	history={
+		owner = AUS
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			anti_air_building = 1
+			424 = {
+				bunker = 5
+
+			}
+			469 = {
+				bunker = 4
+
+			}
+			3585 = {
+				bunker = 2
+
+			}
+			5283 = {
+				bunker = 2
+
+			}
+			6470 = {
+				bunker = 2
+
+			}
+			9555 = {
+				bunker = 2
+
+			}
+			11432 = {
+				bunker = 2
+
+			}
+
+		}
+		add_core_of = CZE
+		1938.9.30 = {
+			owner = GER
+			controller = GER
+
+		}
+
+	}
+
+	provinces={
+		424 543 3418 3585 5283 6470 6592 7857 9541 9555 11432 
+	}
+	manpower=2830000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

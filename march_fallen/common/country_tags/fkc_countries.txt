@@ -1,0 +1,4 @@
+BAV = "countries/Bavaria.txt"
+NOV = "countries/Nova Roma.txt"
+TEX = "countries/Texas.txt"
+TGO = "countries/Teutonic Germania.txt"

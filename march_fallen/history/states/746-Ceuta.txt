@@ -1,0 +1,32 @@
+
+state={
+	id=746
+	name="STATE_746"
+
+	history={
+		owner = NOV
+		victory_points = {
+			9945 10 
+		}
+		buildings = {
+			infrastructure = 6
+			air_base = 2
+			9945 = {
+				naval_base = 5
+				coastal_bunker = 2
+
+			}
+
+		}
+		add_core_of = NOV
+		add_claim_by = SPR
+
+	}
+
+	provinces={
+		9945 10113 12087 
+	}
+	manpower=21372
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

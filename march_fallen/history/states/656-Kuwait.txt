@@ -1,0 +1,27 @@
+state={
+	id=656
+	name="STATE_656"
+	manpower = 80000
+	resources={
+		oil=3.000
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = NOV
+		victory_points = {
+			8085 22 
+		}
+		buildings = {
+			infrastructure = 4
+			8085 = {
+				naval_base = 4
+			}
+		}
+
+	}
+	provinces={
+		8085
+	}
+}

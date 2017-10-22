@@ -1,0 +1,25 @@
+
+state={
+	id=541
+	name="STATE_541"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			10957 12 
+		}
+		add_core_of = SAF
+
+	}
+
+	provinces={
+		7770 7872 8136 10538 10957 10978 12519 12921 
+	}
+	manpower=462000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

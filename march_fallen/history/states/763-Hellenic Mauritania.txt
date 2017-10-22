@@ -1,0 +1,25 @@
+
+state={
+	id=763
+	name="STATE_763"
+	resources={
+		rubber=4.000
+	}
+
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+
+		}
+
+	}
+
+	provinces={
+		2115 
+	}
+	manpower=1638000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

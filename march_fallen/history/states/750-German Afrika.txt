@@ -1,0 +1,23 @@
+
+state={
+	id=750
+	name="STATE_750"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+
+		}
+		add_core_of = GER
+
+	}
+
+	provinces={
+		2001 7950 10919 12707 12762 12785 12843 12874 
+	}
+	manpower=21372
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

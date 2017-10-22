@@ -1,0 +1,22 @@
+state={
+	id=759
+	name="STATE_759"
+	provinces={
+		1150 3783 6851 
+	}
+	manpower=21372
+	
+	state_category = enclave
+	history={
+		victory_points = {
+			1150 22 
+		}
+		owner = NOV
+		buildings = {
+			infrastructure = 6
+			air_base = 4
+		}
+		add_core_of = NOV
+		add_claim_by = CHI
+	}
+}

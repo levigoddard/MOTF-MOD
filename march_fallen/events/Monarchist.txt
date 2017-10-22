@@ -1,0 +1,134 @@
+﻿add_namespace = monarchist
+
+# Revolutionaries Rising
+country_event = {
+	id = monarchist.29
+	title = monarchist.29.t
+	desc = monarchist.29.d
+	picture = GFX_report_event_gathering_protest
+	
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { has_government = monarchism }
+	}
+	
+	# Seek government support
+	option = {
+		name = monarchist.29.a
+		custom_effect_tooltip = monarchist.29.a.tt
+		clr_country_flag = monarchism_popular_movement
+                set_country_flag = monarchism_government_support
+		set_country_flag = monarchism_political_movement
+	}
+} 
+
+# Revolutionaries Target Loyalist
+country_event = {
+	id = monarchist.30
+	title = monarchist.30.t
+	desc = monarchist.30.d
+	picture = GFX_report_event_fascist_militia
+	
+	trigger = {
+		NOT = { has_government = monarchism }
+		monarchism > 0.33
+		NOT = { has_idea = kingsguard_forming }
+	}
+
+	mean_time_to_happen = {
+		days = 40
+		modifier = {
+			factor = 0.5
+			has_country_flag = monarchism_popular_movement
+		}
+	}
+	
+	option = {
+		name = monarchist.30.a
+		add_popularity = {
+			ideology = monarchism
+			popularity = 0.05
+		}
+		add_ideas = kingsguard_forming
+	}
+}
+
+# Revolution Takes Hold
+country_event = {
+	id = monarchist.31
+	title = monarchist.31.t
+	desc = monarchist.31.d
+	picture = GFX_report_event_gathering_protest
+	
+	trigger = {
+		monarchism > 0.5
+		NOT = { has_government = monarchism }
+		NOT = { has_idea = royalist_revolutionaries }
+		NOT = { has_idea = reign_of_terror }
+		is_puppet = no
+	}
+
+	mean_time_to_happen = {
+		days = 30
+	}
+
+	option = {
+		name = monarchist.31.a
+		add_political_power = -100
+		add_popularity = {
+			ideology = monarchism
+			popularity = -0.10
+		}
+		add_timed_idea = {
+			idea = royalist_revolutionaries
+			days = 365
+		}
+	}
+
+	option = {
+		name = monarchist.31.b
+		add_timed_idea = {
+			idea = royalist_revolutionaries
+			days = 365
+		}
+	}
+
+	option = {
+		name = monarchist.31.c
+		set_politics = {
+			ruling_party = monarchism
+			elections_allowed = no
+		}
+		add_national_unity = -0.05
+	}
+}
+	
+	# Revolutionaries Target Loyalist
+country_event = {
+	id = monarchist.32
+	title = monarchist.32.t
+	desc = monarchist.32.d
+	picture = GFX_report_event_fascist_militia
+	
+	trigger = {	
+		monarchism > 0.25
+		NOT = { has_government = monarchism }
+		NOT = { has_idea = kingsguard_forming }
+	}
+
+	mean_time_to_happen = {
+		days = 30
+		modifier = {
+			factor = 0.5
+		}
+	}
+	
+	option = {
+		name = monarchist.32.a
+		add_popularity = {
+			ideology = monarchism
+			popularity = 0.05
+		}
+	}
+}

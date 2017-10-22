@@ -1,0 +1,18 @@
+state={
+	id=756
+	name="STATE_756"
+	provinces={
+		1903 5036 6039 
+	}
+	manpower=215
+	
+	state_category = enclave
+	history={
+		owner = NOV
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+		add_core_of = NOV
+	}
+}

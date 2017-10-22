@@ -1,0 +1,20 @@
+state={
+	id=752
+	name="STATE_752"
+	provinces={
+		878 893 6923 9862 11813 
+	}
+	manpower=21372
+	
+	state_category = town
+	history={
+		owner = BUL
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+		add_core_of = BUL
+		add_core_of = NOV
+	}
+
+}

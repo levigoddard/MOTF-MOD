@@ -1,0 +1,32 @@
+
+state={
+	id=681
+	name="STATE_681"
+
+	history={
+		owner = NOV
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			air_base = 2
+			dockyard = 2
+			arms_factory = 4
+			12589 = {
+				naval_base = 8
+
+			}
+
+		}
+		victory_points = {
+			12589 20 
+		}
+		add_core_of = SAF
+		add_core_of = NOV
+
+	}
+
+	provinces={ 12589 }
+	manpower=1637178
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}
