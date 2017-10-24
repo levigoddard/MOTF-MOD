@@ -251,6 +251,7 @@ create_country_leader = {
 		
 	}
 }
+
 create_country_leader = {
 	name = "Vladimir Kirillovich Romanov"
 	desc = ""

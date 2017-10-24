@@ -1,6 +1,6 @@
 ﻿capital = 375
 
-oob = "AUS_1936"
+oob = "TEX_1936"
 
 set_research_slots = 3
 

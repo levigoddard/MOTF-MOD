@@ -1,5 +1,5 @@
 division_template = {
-	name = "Trigonikó Pezikoú" 				# Triangular Infantry Division
+	name = "Trigonikó Pezikoúa" 				# Triangular Infantry Division
 	# Prior to 1940 mobilization = 3rd, 4th, 5th, 9th, 10, 13th;
 	# 	6th, 7th, 11th, and 12th had 2 regiments; 14th had 1 regiment
 	# Note: sources have all Greek regular infantry as mountain-trained
@@ -16,7 +16,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Tetrágono Pezikoú" 				# Square Infantry Division
+	name = "Tetrágono Pezikoúa" 				# Square Infantry Division
 	# Prior to 1940 mobilization = 1st, 2nd, 8th
 	regiments = {
 		mountaineers = { x = 0 y = 0 }
@@ -34,7 +34,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Merarchía Ippikoú" 			# Cavalry Division
+	name = "Merarchía Ippikoúa" 			# Cavalry Division
 
 	regiments = {
 		cavalry = { x = 0 y = 0 }
@@ -52,25 +52,25 @@ division_template = {
 units = {
 	######## Ellinikó Genikó Epiteleío ########
 	division = {
-		name = "V Merarchía Pezikoú"
+		name = "V Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "VIII Merarchía Pezikoú"
+		name = "VIII Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Tetrágono Pezikoú" 
+		division_template = "Tetrágono Pezikoúa" 
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
 
 	}
 	division = {
-		name = "Merarchía Ippikoú"
+		name = "Merarchía Ippikoúa"
 		location = 9833
-		division_template = "Merarchía Ippikoú" 
+		division_template = "Merarchía Ippikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
@@ -78,9 +78,9 @@ units = {
 
 	# A Sóma Stratoú
 	division = {
-		name = "II Merarchía Pezikoú"
+		name = "II Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Tetrágono Pezikoú" 
+		division_template = "Tetrágono Pezikoúa" 
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
 
@@ -88,17 +88,17 @@ units = {
 	
 	# B Sóma Stratoú
 	division = {
-		name = "I Merarchía Pezikoú"
+		name = "I Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Tetrágono Pezikoú" 
+		division_template = "Tetrágono Pezikoúa" 
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
 
 	}
 	division = {
-		name = "IX Merarchía Pezikoú"
+		name = "IX Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
@@ -106,25 +106,25 @@ units = {
 
 	# C Sóma Stratoú
 	division = {
-		name = "VI Merarchía Pezikoú"
+		name = "VI Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
 	}
 	division = {
-		name = "X Merarchía Pezikoú"
+		name = "X Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "XI Merarchía Pezikoú"
+		name = "XI Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
@@ -132,9 +132,9 @@ units = {
 
 	# D Sóma Stratoú
 	division = {
-		name = "VII Merarchía Pezikoú"
+		name = "VII Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
@@ -142,33 +142,33 @@ units = {
 
 	# E Sóma Stratoú
 	division = {
-		name = "XII Merarchía Pezikoú"
+		name = "XII Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
 	}
 	division = {
-		name = "V Merarchía Pezikoú"
+		name = "V Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "VIII Merarchía Pezikoú"
+		name = "VIII Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Tetrágono Pezikoú" 
+		division_template = "Tetrágono Pezikoúa" 
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
 
 	}
 	division = {
-		name = "Merarchía Ippikoú"
+		name = "Merarchía Ippikoúa"
 		location = 9833
-		division_template = "Merarchía Ippikoú" 
+		division_template = "Merarchía Ippikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
@@ -176,9 +176,9 @@ units = {
 
 	# A Sóma Stratoú
 	division = {
-		name = "II Merarchía Pezikoú"
+		name = "II Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Tetrágono Pezikoú" 
+		division_template = "Tetrágono Pezikoúa" 
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
 
@@ -186,17 +186,17 @@ units = {
 	
 	# B Sóma Stratoú
 	division = {
-		name = "I Merarchía Pezikoú"
+		name = "I Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Tetrágono Pezikoú" 
+		division_template = "Tetrágono Pezikoúa" 
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
 
 	}
 	division = {
-		name = "IX Merarchía Pezikoú"
+		name = "IX Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
@@ -204,25 +204,25 @@ units = {
 
 	# C Sóma Stratoú
 	division = {
-		name = "VI Merarchía Pezikoú"
+		name = "VI Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
 	}
 	division = {
-		name = "X Merarchía Pezikoú"
+		name = "X Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "XI Merarchía Pezikoú"
+		name = "XI Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
@@ -230,9 +230,9 @@ units = {
 
 	# D Sóma Stratoú
 	division = {
-		name = "VII Merarchía Pezikoú"
+		name = "VII Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
@@ -240,33 +240,33 @@ units = {
 
 	# E Sóma Stratoú
 	division = {
-		name = "XII Merarchía Pezikoú"
+		name = "XII Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
 	}
 	division = {
-		name = "V Merarchía Pezikoú"
+		name = "V Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "VIII Merarchía Pezikoú"
+		name = "VIII Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Tetrágono Pezikoú" 
+		division_template = "Tetrágono Pezikoúa" 
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
 
 	}
 	division = {
-		name = "Merarchía Ippikoú"
+		name = "Merarchía Ippikoúa"
 		location = 9833
-		division_template = "Merarchía Ippikoú" 
+		division_template = "Merarchía Ippikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
@@ -274,9 +274,9 @@ units = {
 
 	# A Sóma Stratoú
 	division = {
-		name = "II Merarchía Pezikoú"
+		name = "II Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Tetrágono Pezikoú" 
+		division_template = "Tetrágono Pezikoúa" 
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
 
@@ -284,17 +284,17 @@ units = {
 	
 	# B Sóma Stratoú
 	division = {
-		name = "I Merarchía Pezikoú"
+		name = "I Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Tetrágono Pezikoú" 
+		division_template = "Tetrágono Pezikoúa" 
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
 
 	}
 	division = {
-		name = "IX Merarchía Pezikoú"
+		name = "IX Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
@@ -302,25 +302,25 @@ units = {
 
 	# C Sóma Stratoú
 	division = {
-		name = "VI Merarchía Pezikoú"
+		name = "VI Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
 	}
 	division = {
-		name = "X Merarchía Pezikoú"
+		name = "X Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.5
 
 	}
 	division = {
-		name = "XI Merarchía Pezikoú"
+		name = "XI Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
@@ -328,9 +328,9 @@ units = {
 
 	# D Sóma Stratoú
 	division = {
-		name = "VII Merarchía Pezikoú"
+		name = "VII Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
@@ -338,9 +338,9 @@ units = {
 
 	# E Sóma Stratoú
 	division = {
-		name = "XII Merarchía Pezikoú"
+		name = "XII Merarchía Pezikoúa"
 		location = 9833
-		division_template = "Trigonikó Pezikoú" 
+		division_template = "Trigonikó Pezikoúa" 
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 
@@ -351,28 +351,32 @@ units = {
 		name = "Vasilikó Polemikó Naftikó"				
 		base = 9833
 		location = 9833
-		ship = { name = "RHS Georgios Averoff" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = GRE } } }				
-		ship = { name = "RHS Elli" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GRE } } }				
+		ship = { name = "RHS Georgios Averoff" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = NOV } } }				
+		ship = { name = "RHS Elli" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = NOV } } }				
 		# Destroyer Flotilla
-		ship = { name = "RHS Aetos" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GRE } } }		
-		ship = { name = "RHS Ierax" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GRE } } }		
-		ship = { name = "RHS Leon" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GRE } } }		
-		ship = { name = "RHS Panthir" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GRE } } }		
-		ship = { name = "RHS Kountouriotis" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GRE version_name =  "Hydra Class" } } }
-		ship = { name = "RHS Hydra" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GRE version_name =  "Hydra Class" } } }
-		ship = { name = "RHS Psara" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GRE version_name =  "Hydra Class" } } }
-		ship = { name = "RHS Spetsai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GRE version_name =  "Hydra Class" } } }
+		ship = { name = "RHS Aetos" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = NOV } } }		
+		ship = { name = "RHS Ierax" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = NOV } } }		
+		ship = { name = "RHS Leon" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = NOV } } }		
+		ship = { name = "RHS Panthir" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = NOV } } }		
+		ship = { name = "RHS Kountouriotis" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = NOV version_name =  "Hydra Class" } } }
+		ship = { name = "RHS Hydra" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = NOV version_name =  "Hydra Class" } } }
+		ship = { name = "RHS Psara" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = NOV version_name =  "Hydra Class" } } }
+		ship = { name = "RHS Spetsai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = NOV version_name =  "Hydra Class" } } }
 	}					
 	navy = {					
 		name = "Stolískou Ypovrychíon"				
 		base = 9833
 		location = 9833
-		ship = { name = "RHS Katsonis" definition = submarine equipment = { submarine_1 = { amount = 1 owner = GRE } } }		
-		ship = { name = "RHS Papanikolis" definition = submarine equipment = { submarine_1 = { amount = 1 owner = GRE } } }		
-		ship = { name = "RHS Protefs" definition = submarine equipment = { submarine_1 = { amount = 1 owner = GRE } } }		
-		ship = { name = "RHS Nirefs" definition = submarine equipment = { submarine_1 = { amount = 1 owner = GRE } } }		 
-		ship = { name = "RHS Triton" definition = submarine equipment = { submarine_1 = { amount = 1 owner = GRE } } }		
-		ship = { name = "RHS Glafkos" definition = submarine equipment = { submarine_1 = { amount = 1 owner = GRE } } }		
+		ship = { name = "RHS Katsonis" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }		
+		ship = { name = "RHS Papanikolis" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }		
+		ship = { name = "RHS Protefs" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }		
+		ship = { name = "RHS Nirefs" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }		 
+		ship = { name = "RHS Triton" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }		
+		ship = { name = "RHS Glafkos" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }	
+		ship = { name = "RHS Glafkos II" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }
+		ship = { name = "RHS Glafkosi" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }
+		ship = { name = "RHS Glafkosarius" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }	
+		ship = { name = "RHS Glafkosni" definition = submarine equipment = { submarine_1 = { amount = 1 owner = NOV } } }	
 	}					
 
 }
@@ -383,7 +387,7 @@ air_wings = {
 		# 1st Squadron -- Hawker Audax
 		CAS_equipment_1 =  {
 			owner = "NOV" 
-			amount = 67
+			amount = 189
 	}
 }
 
