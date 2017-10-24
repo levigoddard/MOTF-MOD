@@ -207,20 +207,19 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 9 #shared between all parties, should add to 100
+			popularity = 5 #shared between all parties, should add to 100
 		}
 
 		fascism = {
-			popularity = 2
+			popularity = 5
 		}
 		
 		communism = {
-			popularity = 88
+			popularity = 70
 		}
 		
-		monarchism = {
-			popularity = 1
-			#banned = no #default is no
+		monarchism = { 
+			popularity = 20
 		}
 	}
 	
@@ -257,7 +256,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/SOV/Portrait_SOV_Vladimir_Kirillovich_Romanov.tga"
 	expire = "1953.3.1"
-	ideology = monarchism
+	ideology = absolution
 	traits = {		
 	}
 }

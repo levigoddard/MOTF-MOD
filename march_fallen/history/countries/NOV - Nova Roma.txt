@@ -138,7 +138,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Konstantious Maximus von Komnenos"
+	name = "Konstantious von Komneno"
 	desc = "POLITICS_IOANNIS_METAXAS_DESC"
 	picture = "gfx/leaders/GER/Portrait_GER_Wilhelm_II.tga"
 	expire = "1965.1.1"

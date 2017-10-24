@@ -154,7 +154,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/TUR/Portrait_TUR_Abdulmejid_ii.tga"
 	expire = "1944.8.23"
-	ideology = monarchism
+	ideology = absolution
 	traits = {
 		#
 	}
